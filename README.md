@@ -11,9 +11,9 @@
 
 ### Finish Setting:
 
-- [x] [Typora](https://github.com/AnnLIU15/desktop_setting/blob/master/common/typora/README.md) 
-- [x] [bash-For linux](https://github.com/AnnLIU15/desktop_setting/blob/master/linux_based/bash/README.md) 
-- [x] [powershell](https://github.com/AnnLIU15/desktop_setting/blob/master/common/pwsh/README.md)
+- [x] [Typora](https://github.com/AnnLIU15/script-setting/blob/master/common/typora/README.md) 
+- [x] [bash-For linux](https://github.com/AnnLIU15/script-setting/blob/master/linux_based/bash/README.md) 
+- [x] [powershell](https://github.com/AnnLIU15/script-setting/blob/master/common/pwsh/README.md)
 
 ### Recording:
 
