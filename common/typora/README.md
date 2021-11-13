@@ -56,7 +56,7 @@
 
 | 主题名称    | 预览图                            |
 | ------------ | ------------------------------------------------------------ |
-| drake-vue   | <img src="https://github.com/AnnLIU15/desktop_setting/blob/master/common/typora/img/README/thumbnail-vue.png" width="500"/> |
+| drake-vue   | <img src="https://github.com/AnnLIU15/script-setting/blob/master/common/typora/img/README/thumbnail-vue.png" width="500"/> |
 
 ## License
 
