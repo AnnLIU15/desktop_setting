@@ -4,7 +4,7 @@
 
 效果图
 
-<img src="https://github.com/AnnLIU15/desktop_setting/blob/master/linux_based/bash/img/README/bash_ubuntu.png" width="500">
+<img src="https://github.com/AnnLIU15/script-setting/blob/master/linux_based/bash/img/README/bash_ubuntu.png" width="500">
 
 ```
 if [ "$color_prompt" = yes ]; then
